@@ -51,9 +51,9 @@ Go [**`here`**](https://github.com/buntyxxx/Cervical_Cancer_Predection_with_ML/)
 
 ### How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" />
 
-1. Go [**`here`**](https://github.com/milaan9/93_Python_Data_Analytics_Projects) and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/milaan9/93_Python_Data_Analytics_Projects/archive/refs/heads/main.zip).
+1. Go [**`here`**](https://github.com/buntyxxx/Cervical_Cancer_Predection_with_ML/) and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**]
 
-    ![Download ZIP](https://github.com/milaan9/93_Python_Data_Analytics_Projects/blob/main/img/dnld_rep.png)
+    
 
 2. Extract the ZIP and open it. Unfortunately I don't have any more specific instructions because how exactly this is done depends on which operating system you run.
     
